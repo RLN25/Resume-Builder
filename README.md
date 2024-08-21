@@ -1,4 +1,4 @@
-# zidio-resume-builder
+# Resume-Builder
 
 # Contributing to Resume Builder
 
@@ -7,7 +7,7 @@
 1. **Fork the repository**: Click the 'Fork' button at the top right of the repository page.
 2. **Clone the repository**: Clone your forked repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/zidio-resume-builder.git
+    gh repo clone RLN25/Resume-Builder
     ```
 3. **Set up the environment**:
    1. go to backend directory and set up environment variables from ".env.example"
